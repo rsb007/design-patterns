@@ -1,8 +1,8 @@
 package AdapterPattern.ducks;
 
-import AdapterPattern.ducks.challenge.Drone;
-import AdapterPattern.ducks.challenge.DroneAdapter;
-import AdapterPattern.ducks.challenge.SuperDrone;
+import AdapterPattern.challenge.Drone;
+import AdapterPattern.challenge.DroneAdapter;
+import AdapterPattern.challenge.SuperDrone;
 
 public class DuckTestDrive {
     public static void main(String[] args) {

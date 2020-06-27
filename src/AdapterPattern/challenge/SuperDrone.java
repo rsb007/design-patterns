@@ -1,4 +1,4 @@
-package AdapterPattern.ducks.challenge;
+package AdapterPattern.challenge;
 
 public class SuperDrone implements Drone {
 	public void beep() {

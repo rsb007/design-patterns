@@ -1,4 +1,4 @@
-package AdapterPattern.ducks.challenge;
+package AdapterPattern.challenge;
 
 
 import AdapterPattern.ducks.Duck;
